@@ -1,8 +1,8 @@
 - Hey :wave: , This is SubhaDeeep
 - I am intrested in learning web Technologies.
-- I am currently learning javaScript.
+- I am doing projects and freelancing in MERN & Next.js.
 - I am looking for collabration in web dev projects
-- Reach me via email subhadeepbarua944@gmail.com
+- Reach me via email subhadipbarua944@gmail.com
 
 
 ## Github Stats
